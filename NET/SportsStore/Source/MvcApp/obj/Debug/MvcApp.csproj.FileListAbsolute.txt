@@ -1,0 +1,354 @@
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_SAMPLE_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Northwind_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_CountryDDL_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_CustomerByCountry_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Customer_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Customer_All_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_Customer_USA_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcContrib.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcContrib.FluentHtml.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\VSS_2012\MVCs\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.pdb
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+Y:\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb

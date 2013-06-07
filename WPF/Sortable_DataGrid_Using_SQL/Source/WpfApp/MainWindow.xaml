@@ -1,0 +1,80 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Simple Data Grid" 
+        SizeToContent="WidthAndHeight" 
+        ResizeMode="NoResize">
+    <Grid>
+        
+        <Grid.Resources>
+            <ResourceDictionary>
+                <ResourceDictionary.MergedDictionaries>
+                    <ResourceDictionary Source="Themes\DataGrid.Generic.xaml"/>
+                </ResourceDictionary.MergedDictionaries>
+            </ResourceDictionary>
+        </Grid.Resources>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Menu Height="27" Grid.Row="0" Background="White" 
+              HorizontalAlignment="Left" 
+              Name="menu1" 
+              VerticalAlignment="Top">
+            <MenuItem Header="_File" >
+                <MenuItem 
+                    Header="E_xit" 
+                    Click="Exit_Click">
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Action">
+                <MenuItem 
+                    Header="_Read Data" 
+                    Click="Read_Click">
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Help">
+            </MenuItem>
+        </Menu>
+
+        <StackPanel Margin="5,0,5,5" Grid.Row="1">
+
+            <DataGrid Name="DataGridBookOrders"  
+                      CanUserAddRows="False"
+                      AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Customer Name" 
+                                    Binding="{Binding Path=CustomerName}" 
+                                    FontWeight="Bold" 
+                                    Foreground="Blue" />
+                    <DataGridTextColumn Header="Address" 
+                                    Binding="{Binding Path=Address}" />
+                    <DataGridTextColumn Header="City" 
+                                    Binding="{Binding Path=City}" />
+                    <DataGridTextColumn Header="Zip" 
+                                    Binding="{Binding Path=Zip}" />
+                    <DataGridTextColumn Header="State" 
+                                    Binding="{Binding Path=State}"/>
+                    <DataGridTextColumn Header="ISBN" 
+                                    Binding="{Binding Path=ISBN}"/>
+                    <DataGridTextColumn Header="Title" 
+                                    Binding="{Binding Path=Title}"/>
+                    <DataGridTextColumn Header="Cost" 
+                                    Binding="{Binding Path=Cost}"/>
+                    <DataGridTextColumn Header="Quantity" 
+                                    Binding="{Binding Path=Quantity}"/>
+                    <DataGridTextColumn Header="Publisher" 
+                                    Binding="{Binding Path=Publisher}"/>
+                    <DataGridTextColumn Header="Author" 
+                                    Binding="{Binding Path=Author}"/>
+                    <DataGridTextColumn Header="OrderDate" 
+                                    Binding="{Binding Path=OrderDate, StringFormat=d}"/>
+                    
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </StackPanel>
+    </Grid>
+</Window>

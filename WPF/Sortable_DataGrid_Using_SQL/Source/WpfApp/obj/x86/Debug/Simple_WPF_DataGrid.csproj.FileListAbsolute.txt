@@ -1,0 +1,19 @@
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\Simple_WPF_DataGrid.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\Themes\Brushes.baml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\Themes\DataGrid.Generic.baml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\App.g.cs
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\WpfApp_Content.g.cs
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\WpfApp.g.resources
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\Simple_WPF_DataGrid.csproj.GenerateResource.Cache
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\WpfApp.exe
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\z_Semester1\@Completed\WK12_BookstoreOrders_Solution copy\Source\WpfApp\obj\x86\Debug\WpfApp.pdb
+C:\Users\Brad\Desktop\C#_Projects\WPF\Sortable_DataGrid_Using_SQL\Source\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Brad\Desktop\C#_Projects\WPF\Sortable_DataGrid_Using_SQL\Source\WpfApp\obj\x86\Debug\WpfApp.exe
+C:\Users\Brad\Desktop\C#_Projects\WPF\Sortable_DataGrid_Using_SQL\Source\WpfApp\obj\x86\Debug\WpfApp.pdb

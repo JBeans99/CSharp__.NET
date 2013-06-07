@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ElmCourseModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ElmCourseModelStoreContainer">
+    <EntitySet Name="Universities" EntityType="ElmCourseModel.Store.Universities" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Universities">
+    <Key>
+      <PropertyRef Name="UniversityID" />
+    </Key>
+    <Property Name="UniversityID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UniversityName" Type="nvarchar" Nullable="false" MaxLength="35" />
+    <Property Name="Campus" Type="nvarchar" MaxLength="35" />
+    <Property Name="Latitude" Type="float" />
+    <Property Name="Longitude" Type="float" />
+    <Property Name="City" Type="nvarchar" MaxLength="35" />
+    <Property Name="Zip" Type="nvarchar" MaxLength="10" />
+    <Property Name="County" Type="nvarchar" MaxLength="35" />
+    <Property Name="StateID" Type="int" />
+    <Property Name="CountryID" Type="int" />
+    <Property Name="URL" Type="nvarchar(max)" />
+  </EntityType>
+</Schema>

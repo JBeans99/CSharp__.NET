@@ -1,0 +1,114 @@
+﻿@model MvcApp.Controllers.State
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@section MainHeaderContentPlaceHolder
+{
+    <div>
+        @Html.Partial("Header")
+    </div>
+}
+
+<div class="admin-grid-wrapper">
+    <table id="jqgrid"></table>
+    <div id="jqgridpager"></div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        var thisjqGrid = $('#jqgrid').jqGrid({
+            url: '/Home/GetStates',
+            datatype: 'json',
+            mtype: 'POST',
+            caption: 'States',
+            colNames: ['State ID', 'State', 'State Abbreviation'],
+            colModel:
+                    [
+                        {
+                            name: 'StateID',
+                            index: 'StateID',
+                            editable: true,
+                            editrules: { edithidden: false },
+                            key: true,
+                            hidden: true
+                        },
+
+                        {
+                            name: 'Name',
+                            editable: true,
+                            //editrules: { edithidden: false },
+                            key: true,
+                        },
+
+                        {
+                            name: 'Abbreviation',
+                            editable: true
+                        }
+                    ],
+            jsonReader: {
+                root: "Rows",
+                page: "Page",
+                total: "Total",
+                records: "Records",
+                repeatitems: false,
+                userdata: "UserData",
+                id: "0"
+            },
+            rowNum: 3,
+            rowList: [3, 10, 20, 50],
+            pager: jQuery('#jqgridpager'),
+            sortname: 'Name',
+            sortorder: 'asc',
+            viewrecords: true,
+            editurl: '/Home/SaveState',
+            edit: {
+                addCaption: 'Edit Customer',
+                saveData: 'Data has changed. Save changes?',
+                closeAfterAdd: true,
+                closeAfterEdit: true,
+                closeOnEscape: true,
+                viewPagerButtons: false
+            },
+            multiselect: false,
+            autowidth: true,
+            //width: 600,
+            height: 'auto'
+        });
+        thisjqGrid.jqGrid(
+                'navGrid',
+                '#jqgridpager',
+                { edit: true, add: true, del: true, search: true, refresh: false }, // user permissions for jGrid // 
+                          
+                {
+                    modal: true,
+                    closeOnEscape: true,
+                    reloadAfterSubmit: false,
+                    closeAfterEdit: true
+                }, // edit options
+                { modal: true, closeAfterAdd: true }, // add options
+                {
+                    url: '/Home/DeleteState',
+                    modal: true,
+                    closeOnEscape: true,
+                    reloadAfterSubmit: true,
+
+                    onclickSubmit: function (params) {
+                        var ajaxData = {};
+
+                        var selectedRow = thisjqGrid.getGridParam("selrow");
+                        var rowData = thisjqGrid.getRowData(selectedRow);
+                        ajaxData = { StateID: rowData.StateID };
+                        return ajaxData;
+                    }
+                }, // delete options
+
+                {
+                    closeOnEscape: true, closeAfterSearch: true, multipleSearch: true
+                }, // search options
+                {}  // view options
+            );
+    });
+</script>

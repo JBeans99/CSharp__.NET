@@ -1,0 +1,126 @@
+﻿@model MvcApp.Models.ProductModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@section MainHeaderContentPlaceHolder
+{
+    <div>
+        @Html.Partial("Header")
+    </div>
+}
+
+<div class="admin-grid-wrapper">
+    <table id="jqGrid"></table>
+    <div id="jqGridPager"></div>
+</div>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        var thisjqGrid = $("#jqGrid");
+        thisjqGrid.jqGrid({
+            url: '/Home/GetCustomers',
+            datatype: 'json',
+            mtype: 'POST',
+            caption: 'Customers',
+            colNames: ['ProductID', 'Name', 'Description', 'Price', 'Action'],
+            colModel:
+            [
+                
+                {
+                    name: 'ProductID',
+                    index: 'ProductID',
+                    editable: false,
+                    key: true,
+                    hidden: true
+                },
+                { name: 'Name', editable: true },
+                { name: 'Description', editable: false },
+                {
+                    name: 'Price',
+                    editable: false,
+                    sortable: false,
+                    formatter: 'currency',
+                    formatoptions: { prefix: '$', suffix: '' }
+                },
+                {
+                    name: 'Action',
+                    index: 'Action',
+                    width: 200,
+                    formatter: 'showlink',
+                    formatoptions: { baseLinkUrl: '#' }
+                }
+            ],
+            
+            jsonReader: {
+                root: "Rows",
+                page: "Page",
+                total: "Total",
+                records: "Records",
+                repeatitems: false,
+                userdata: "UserData",
+                id: "0"
+            },
+            rowNum: 5,
+            rowList: [5, 10, 20],
+            pager: $('#jqGridPager'),
+            sortname: 'Name',
+            sortorder: 'asc',
+            viewrecords: true,
+
+            multiselect: false,
+            autowidth: true,
+            width: 600,
+            height: 'auto',
+            
+            loadComplete: function () {
+                var ids = thisjqGrid.getDataIDs();
+                for (var i = 0, idCount = ids.length; i < idCount; i++) {
+                    $("#" + ids[i] + " a", thisjqGrid[0]).click(function (e) {
+                        var hash = e.currentTarget.hash;// string like "#?id=0"
+                        if (hash.substring(0, 5) === '#?id=') {
+                            var id = hash.substring(5, hash.length);
+                            
+                            var jsonId = getjsonId(id);
+                            var jsonInput = $.toJSON(jsonId);
+                            
+                            $.ajax({
+                                url: '/home/PostInput_Ajax',
+                                type: 'POST',
+                                dataType: 'json',
+                                data: jsonInput,
+                                contentType: 'application/json; charset=utf-8',
+                                success: function (data) {
+                                    var message = data.feedback[0].message;
+                                    //$("#resultMessage").html(message);
+                                    //alert(message);
+                                }
+                            });
+
+                        }
+                        e.preventDefault();
+                    });
+                }
+            }
+
+        });
+        thisjqGrid.jqGrid(
+            'navGrid',
+            '#jqGridPager',
+            { edit: false, add: false, del: false, search: false },
+            {}, // edit options
+            {}, // add options
+            {}, // delete options
+            {}, // search options
+            {}  // view options
+        );
+        
+    });
+    
+    function getjsonId(id) {
+        return (id == "") ? null : { ProductID: id };
+    }
+
+</script>

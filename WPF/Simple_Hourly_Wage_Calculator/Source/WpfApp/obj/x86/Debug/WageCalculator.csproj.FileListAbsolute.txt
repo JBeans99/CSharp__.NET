@@ -1,0 +1,12 @@
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\WageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\App.g.cs
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\WpfApp.g.resources
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\WageCalculator.csproj.GenerateResource.Cache
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\WpfApp.exe
+C:\Users\Brad\Desktop\C#_Semester_1\CSharpHomework\WPF_Payroll_OOP_Solution\WPF_Payroll_OOP_Solution\Source\WpfApp\obj\x86\Debug\WpfApp.pdb

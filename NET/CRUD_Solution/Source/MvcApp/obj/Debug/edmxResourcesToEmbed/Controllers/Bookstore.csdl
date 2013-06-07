@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookstoreModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BookstoreEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="BookstoreModel.Author" />
+    <EntitySet Name="BookAuthors" EntityType="BookstoreModel.BookAuthor" />
+    <EntitySet Name="Books" EntityType="BookstoreModel.Book" />
+    <AssociationSet Name="FK_BookAuthors_Authors" Association="BookstoreModel.FK_BookAuthors_Authors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="BookAuthors" EntitySet="BookAuthors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BookAuthors_Books" Association="BookstoreModel.FK_BookAuthors_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="BookAuthors" EntitySet="BookAuthors" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="AuthorID" />
+    </Key>
+    <Property Name="AuthorID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="LName" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="FName" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="BookAuthors" Relationship="BookstoreModel.FK_BookAuthors_Authors" FromRole="Authors" ToRole="BookAuthors" />
+  </EntityType>
+  <EntityType Name="BookAuthor">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ISBN" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="AuthorID" Type="Int32" />
+    <NavigationProperty Name="Author" Relationship="BookstoreModel.FK_BookAuthors_Authors" FromRole="BookAuthors" ToRole="Authors" />
+    <NavigationProperty Name="Book" Relationship="BookstoreModel.FK_BookAuthors_Books" FromRole="BookAuthors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="ISBN" />
+    </Key>
+    <Property Name="ISBN" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="Title" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="PubDate" Type="DateTime" Precision="3" />
+    <Property Name="PubID" Type="Int32" />
+    <Property Name="Cost" Type="Decimal" Precision="10" Scale="4" />
+    <Property Name="Retail" Type="Decimal" Precision="10" Scale="4" />
+    <Property Name="Category" Type="String" MaxLength="12" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="BookAuthors" Relationship="BookstoreModel.FK_BookAuthors_Books" FromRole="Books" ToRole="BookAuthors" />
+  </EntityType>
+  <Association Name="FK_BookAuthors_Authors">
+    <End Role="Authors" Type="BookstoreModel.Author" Multiplicity="0..1" />
+    <End Role="BookAuthors" Type="BookstoreModel.BookAuthor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="AuthorID" />
+      </Principal>
+      <Dependent Role="BookAuthors">
+        <PropertyRef Name="AuthorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BookAuthors_Books">
+    <End Role="Books" Type="BookstoreModel.Book" Multiplicity="0..1" />
+    <End Role="BookAuthors" Type="BookstoreModel.BookAuthor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="BookAuthors">
+        <PropertyRef Name="ISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

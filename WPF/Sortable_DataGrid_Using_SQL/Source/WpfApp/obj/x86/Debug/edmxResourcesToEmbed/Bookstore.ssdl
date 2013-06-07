@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookstoreModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="BookstoreModelStoreContainer">
+    <EntitySet Name="Authors" EntityType="BookstoreModel.Store.Authors" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BookAuthors" EntityType="BookstoreModel.Store.BookAuthors" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Books" EntityType="BookstoreModel.Store.Books" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customers" EntityType="BookstoreModel.Store.Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OrderItems" EntityType="BookstoreModel.Store.OrderItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Orders" EntityType="BookstoreModel.Store.Orders" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Publishers" EntityType="BookstoreModel.Store.Publishers" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_BookAuthors_Authors" Association="BookstoreModel.Store.FK_BookAuthors_Authors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="BookAuthors" EntitySet="BookAuthors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BookAuthors_Books" Association="BookstoreModel.Store.FK_BookAuthors_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="BookAuthors" EntitySet="BookAuthors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Publishers" Association="BookstoreModel.Store.FK_Books_Publishers">
+      <End Role="Publishers" EntitySet="Publishers" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderItems_Books" Association="BookstoreModel.Store.FK_OrderItems_Books">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="OrderItems" EntitySet="OrderItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Customers" Association="BookstoreModel.Store.FK_Orders_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_OrderItems" Association="BookstoreModel.Store.FK_Orders_OrderItems">
+      <End Role="OrderItems" EntitySet="OrderItems" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Authors">
+    <Key>
+      <PropertyRef Name="AuthorID" />
+    </Key>
+    <Property Name="AuthorID" Type="varchar" Nullable="false" MaxLength="4" />
+    <Property Name="LName" Type="varchar" MaxLength="10" />
+    <Property Name="FName" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="BookAuthors">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ISBN" Type="varchar" MaxLength="10" />
+    <Property Name="AuthorID" Type="varchar" MaxLength="4" />
+  </EntityType>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="ISBN" />
+    </Key>
+    <Property Name="ISBN" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="Title" Type="varchar" MaxLength="30" />
+    <Property Name="PubDate" Type="datetime" />
+    <Property Name="PubID" Type="int" />
+    <Property Name="Cost" Type="smallmoney" />
+    <Property Name="Retail" Type="smallmoney" />
+    <Property Name="Category" Type="varchar" MaxLength="12" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="10" />
+    <Property Name="FirstName" Type="varchar" MaxLength="10" />
+    <Property Name="Address" Type="varchar" MaxLength="20" />
+    <Property Name="City" Type="varchar" MaxLength="12" />
+    <Property Name="State" Type="varchar" MaxLength="2" />
+    <Property Name="Zip" Type="varchar" MaxLength="25" />
+    <Property Name="ReferredBy" Type="int" />
+  </EntityType>
+  <EntityType Name="OrderItems">
+    <Key>
+      <PropertyRef Name="OrderItemID" />
+    </Key>
+    <Property Name="OrderItemID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ISBN" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="int" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="OrderDate" Type="datetime" />
+    <Property Name="OrderItemID" Type="int" />
+    <Property Name="PromotionID" Type="int" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="ShipDate" Type="datetime" />
+    <Property Name="ShipStreet" Type="varchar" MaxLength="18" />
+    <Property Name="ShipCity" Type="varchar" MaxLength="15" />
+    <Property Name="ShipState" Type="varchar" MaxLength="2" />
+    <Property Name="ShipZip" Type="varchar" MaxLength="5" />
+  </EntityType>
+  <EntityType Name="Publishers">
+    <Key>
+      <PropertyRef Name="PubID" />
+    </Key>
+    <Property Name="PubID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="varchar" MaxLength="23" />
+    <Property Name="Contact" Type="varchar" MaxLength="15" />
+    <Property Name="Phone" Type="varchar" MaxLength="12" />
+  </EntityType>
+  <Association Name="FK_BookAuthors_Authors">
+    <End Role="Authors" Type="BookstoreModel.Store.Authors" Multiplicity="0..1" />
+    <End Role="BookAuthors" Type="BookstoreModel.Store.BookAuthors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Authors">
+        <PropertyRef Name="AuthorID" />
+      </Principal>
+      <Dependent Role="BookAuthors">
+        <PropertyRef Name="AuthorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BookAuthors_Books">
+    <End Role="Books" Type="BookstoreModel.Store.Books" Multiplicity="0..1" />
+    <End Role="BookAuthors" Type="BookstoreModel.Store.BookAuthors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="BookAuthors">
+        <PropertyRef Name="ISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Books_Publishers">
+    <End Role="Publishers" Type="BookstoreModel.Store.Publishers" Multiplicity="0..1" />
+    <End Role="Books" Type="BookstoreModel.Store.Books" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publishers">
+        <PropertyRef Name="PubID" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="PubID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderItems_Books">
+    <End Role="Books" Type="BookstoreModel.Store.Books" Multiplicity="0..1" />
+    <End Role="OrderItems" Type="BookstoreModel.Store.OrderItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="OrderItems">
+        <PropertyRef Name="ISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Customers">
+    <End Role="Customers" Type="BookstoreModel.Store.Customers" Multiplicity="1" />
+    <End Role="Orders" Type="BookstoreModel.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_OrderItems">
+    <End Role="OrderItems" Type="BookstoreModel.Store.OrderItems" Multiplicity="0..1" />
+    <End Role="Orders" Type="BookstoreModel.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OrderItems">
+        <PropertyRef Name="OrderItemID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="OrderItemID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,55 @@
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\MvcApp.pdb
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\EntityFramework.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.Razor.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\Users\Brad\Dropbox\OSU-OKC\Csharp\AdvCSProjects\WK 2013-04-11\AdvCS_4_11_2013\MVC4_OSU_SportStore_jqGrid_HyperLink_Solution\Source\MvcApp\obj\Debug\MvcApp.pdb
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\MvcApp.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\MvcApp.pdb
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\EntityFramework.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\Newtonsoft.Json.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Helpers.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Http.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Mvc.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Razor.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.WebPages.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\EntityFramework.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\Newtonsoft.Json.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Helpers.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Http.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Mvc.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.Razor.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.WebPages.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\obj\Debug\MvcApp.dll
+C:\Users\Brad\Dropbox\OSU-OKC\GitHub\C#_Projects\NET\SportsStore\Source\MvcApp\obj\Debug\MvcApp.pdb

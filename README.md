@@ -1,0 +1,1 @@
+C# / WPF and .NET projects from class as well as some projects of my own.
