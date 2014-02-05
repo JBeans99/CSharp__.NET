@@ -19,5 +19,5 @@ WPF  -->  Sortable DataGrid Using SQL  <br>
   The grid view can then be sorted by each column. 
   <br><br><br>
   
-...... more to be uploaded  
+
 
